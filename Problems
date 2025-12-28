@@ -1,0 +1,9 @@
+
+
+
+
+
+    # Higher grade piece does not replace pawn properly
+
+    # player scores become doesnt represent actual positions when a pawn is promoted
+        instead of +HowManyPiecesCaptured, should be +HowManyPiecesLeftCOMPAREDToOpponent
